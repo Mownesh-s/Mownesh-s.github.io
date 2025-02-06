@@ -58,6 +58,8 @@
 </p>
 
 ---
+## 📄 Resume  
+📌 **[View My Resume]([https://github.com/yourusername/yourrepo/raw/main/resume.pdf](https://github.com/Mownesh-s/Mownesh-s.github.io))** (Click to View & Download)
 
 🔗 **Live Portfolio:** [Mownesh-s.github.io](https://mownesh-s.github.io/))  
 🎨 Designed by **[Mownesh S]** 🚀  
