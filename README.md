@@ -3,7 +3,7 @@
 
 📍 **Palakkad, Kerala**  
 📧 [mowneshsoff@gmail.com](mailto:mowneshsoff@gmail.com)  
-🔗 [LinkedIn](#) • [GitHub](#) • [Portfolio](#) <!-- Replace # with actual links -->
+🔗 [LinkedIn](#) • [GitHub](#) • [Portfolio](#) 
 
 ## 🚀 About Me  
 Passionate **Data Scientist** with expertise in **Python, SQL, NLP, and Data Visualization**. Skilled in **Machine Learning, Data Preprocessing, and Predictive Analytics**. Looking for an **entry-level role** to apply my analytical skills in solving real-world problems.
