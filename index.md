@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 **Education:** [BCom (Computer Application)] from [Bharathiar University] (Year of Graduation)  
+- 🎓 **Education:** [BCom (Computer Application)] from [Bharathiar University] (Year of Graduation-2024)  
 - 💡 **Skills:** `Python`, `SQL`, `Excel`,`Power BI`, `Machine Learning`
 - 📌 **Currently Learning:** `Data Science`, `Deep Learning`, `NLP`,`CV`  
 - 🔍 **Looking For:** Internship / Entry-Level Opportunities  
