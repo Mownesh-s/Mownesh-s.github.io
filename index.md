@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mownesh-s&show_icons=true&theme=default" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mownesh-s&theme=default" width="45%" />
+  
 </p>
 
 
