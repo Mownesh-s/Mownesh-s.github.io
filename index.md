@@ -1,79 +1,66 @@
----
-layout: default
-title: "My Portfolio"
----
-# Mownesh S - Data Science & Machine Learning Enthusiast  
-![Profile Image](profile.jpg) <!-- Add your profile image in the repository and replace profile.jpg -->
+<h1 align="center">🚀 Hi, I'm [Your Name]!</h1>
 
-📍 **Palakkad, Kerala**  
-📧 [mowneshsoff@gmail.com](mailto:mowneshsoff@gmail.com)  
-🔗 [LinkedIn](#) • [GitHub](#) • [Portfolio](#) 
-
-## 🚀 About Me  
-Passionate **Data Scientist** with expertise in **Python, SQL, NLP, and Data Visualization**. Skilled in **Machine Learning, Data Preprocessing, and Predictive Analytics**. Looking for an **entry-level role** to apply my analytical skills in solving real-world problems.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  <b> Passionate [Your Role] | Open Source Enthusiast | Tech Explorer</b>
+</p>
 
 ---
 
-## 🛠 Technical Skills  
-
-- **Programming**: Python, SQL  
-- **Data Manipulation**: Pandas, NumPy, SQL Queries  
-- **Data Visualization**: Matplotlib, Seaborn, Power BI, Tableau  
-- **Statistics & Math**: Probability, Hypothesis Testing, Linear Algebra, Calculus  
-- **Data Preprocessing**: Data Cleaning, Feature Engineering, Handling Missing Data  
-- **Machine Learning**: Supervised & Unsupervised Learning, Scikit-learn, TensorFlow, Keras  
-- **NLP**: Text Cleaning, Tokenization, TF-IDF, Word Embeddings  
-- **Big Data**: Spark, Hadoop (Basics)  
-- **Model Deployment**: Flask  
-- **Version Control**: Git, GitHub  
-- **Tools & Platforms**: Google Colab, Jupyter Notebook  
+## 🌟 About Me  
+- 🎓 **Education:** [Your Degree] from [Your University]  
+- 💼 **Experience:** [Current Role] at [Company/Organization]  
+- 🌱 **Currently Learning:** `Machine Learning`, `Deep Learning`, `Cloud Computing`  
+- 🚀 **Interests:** `AI`, `Data Science`, `Full-Stack Development`  
+- 🏆 **Achievements:** Published research, Hackathons, Open Source contributions  
 
 ---
 
-## 💡 Soft Skills  
-
-| Problem-Solving | Communication | Collaboration | Adaptability |  
-|----------------|--------------|--------------|--------------|  
-| Time Management | Analytical Thinking | Data Storytelling |  
-
----
-
-## 📜 Certifications  
-
-- **PG Data Science with Data Analytics & AI** – *Peopleclick Learning, Coimbatore (06/2024 - 01/2025)*  
+## 💡 My Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
 ---
 
-## 🎓 Education  
-
-- **B.Com (Computer Application)** – *Sri Krishna Adithya College of Arts & Science (2021) – 70%*  
-
----
-
-## 🏆 Projects  
-
-### 📊 **1. Life Expectancy and BMI Prediction**  
-🔹 Developed a **multi-output regression model** to predict **Life Expectancy and BMI**.  
-🔹 **Data Preprocessing**: Handled missing values, applied **PCA** for dimensionality reduction.  
-🔹 **Models Used**: Random Forest, SVR, AdaBoost.  
-🔹 **Results**: Achieved an **R² score of 0.89** for Life Expectancy with **Random Forest**.  
-
-### 🏥 **2. Diabetes Classification**  
-🔹 Built a **machine learning model** to classify diabetes stages (**0, 1, 2**).  
-🔹 **Data Handling**: Used **SMOTE** for class balancing, feature selection.  
-🔹 **Models Used**: LightGBM, XGBoost.  
-🔹 **Results**: Achieved **84% accuracy** and **0.93 AUC-ROC** using **LightGBM**.  
-
-### 📝 **3. Automatic Text Summarization**  
-🔹 Developed a **Transformer-based Text Summarization** model using **BART in TensorFlow**.  
-🔹 Designed custom **encoder-decoder architecture** with **multi-head attention**.  
-🔹 **Evaluation Metrics**: Optimized using **ROUGE scores**.  
+## 🚀 Featured Projects  
+| 🏆 Project Name | 🔗 Live Demo | 📁 Repository | 📝 Description |
+|---------------|------------|--------------|-------------|
+| **Project 1** | [🔗 Live](#) | [📂 Repo](#) | `Machine Learning model` predicting customer churn. |
+| **Project 2** | [🔗 Live](#) | [📂 Repo](#) | `Deep Learning` based image classification system. |
+| **Project 3** | [🔗 Live](#) | [📂 Repo](#) | `Power BI` dashboard for business analytics. |
 
 ---
 
-## 📸 Where to Add Images & Extra Content  
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="45%" />
+</p>
 
-1. **Profile Picture:** Add a professional **profile.jpg** in your repository and update the image path in the README.  
-2. **Project Screenshots:** Upload project-related images in a folder called **images/** and reference them like this:  
-   ```markdown
-   ![Project Image](images/project1.png)
+---
+
+## ✍️ Blog & Writings  
+- 📝 **[Article 1 Title](#)** - Published on [Platform]  
+- 📝 **[Article 2 Title](#)** - Published on [Platform]  
+- 📝 **[Article 3 Title](#)** - Published on [Platform]  
+
+---
+
+## 📬 Connect With Me  
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+🔗 **Live Portfolio:** [yourusername.github.io](https://yourusername.github.io/)  
+🎨 Designed & maintained by **[Your Name]** 🚀  
