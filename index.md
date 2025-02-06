@@ -1,3 +1,7 @@
+---
+layout: default
+title: "My Portfolio"
+---
 # Mownesh S - Data Science & Machine Learning Enthusiast  
 ![Profile Image](profile.jpg) <!-- Add your profile image in the repository and replace profile.jpg -->
 
