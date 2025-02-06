@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal  # Change theme name if needed
-include: ["README.md"]
+theme: jekyll-theme-minimal  # Or any other theme
+title: "Mownesh S - Data Science & Machine Learning Enthusiast"
+description: "Portfolio of Mownesh S"
+show_downloads: false
+include: ["index.md"]
 
