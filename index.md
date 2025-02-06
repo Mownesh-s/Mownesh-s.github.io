@@ -27,11 +27,12 @@
 ---
 
 ## 🚀 Projects  
-| 🏆 Project Name | 📁 Repository | 📝 Description |
-|---------------|--------------|-------------|
-| **Multiclass Classification** | [📂 Repo](https://github.com/Mownesh-s/Multi-Class-Classification) | Performed Multiclass Classification on Diabetes Data. |
+
+| 🏆 Project Name                | 📁 Repository | 📝 Description |
+|--------------------------------|--------------|---------------|
+| **Multiclass Classification**  | [📂 Repo](https://github.com/Mownesh-s/Multi-Class-Classification) | Performed Multiclass Classification on Diabetes Data. |
 | **Multi-Output Regression Analysis** | [📂 Repo](https://github.com/Mownesh-s/Multi_output_Regression_Analysis) | Built a `Multi-output Regressor` model to Predict Life Expectancy And BMI. |
-| **Text Summarization** | [📂 Repo](https://github.com/Mownesh-s/Text_Summarization) | Built a Transformer-based Text Summarization model with a custom BART |
+| **Text Summarization**         | [📂 Repo](https://github.com/Mownesh-s/Text_Summarization) | Built a Transformer-based Text Summarization model with a custom BART model. |
 
 ---
 
