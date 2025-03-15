@@ -34,8 +34,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            font-family: 'Poppins', sans-serif;
+            background-color: #f8f9fa;
             margin: 0;
             padding: 0;
         }
@@ -46,7 +46,9 @@
         }
         .projects-title {
             text-align: center;
-            font-size: 2em;
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #333;
             margin-bottom: 20px;
         }
         .projects-grid {
@@ -55,39 +57,52 @@
             gap: 20px;
         }
         .project-card {
-            background: #fff;
+            background: white;
             padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease-in-out;
+            border-radius: 12px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s;
+            text-align: center;
         }
         .project-card:hover {
             transform: scale(1.05);
+            box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
         }
         .project-title {
-            font-size: 1.3em;
+            font-size: 1.5em;
             font-weight: bold;
+            margin-bottom: 10px;
         }
         .project-description {
-            margin: 10px 0;
+            color: #555;
+            font-size: 0.95em;
+            margin-bottom: 15px;
         }
         .project-links {
             margin-top: 10px;
         }
         .btn {
             display: inline-block;
-            padding: 8px 12px;
+            padding: 10px 15px;
             margin-right: 10px;
             text-decoration: none;
             color: white;
-            border-radius: 5px;
             font-size: 0.9em;
+            border-radius: 6px;
+            font-weight: bold;
+            transition: background 0.3s;
         }
         .repo-btn {
             background-color: #007bff;
         }
+        .repo-btn:hover {
+            background-color: #0056b3;
+        }
         .live-btn {
             background-color: #28a745;
+        }
+        .live-btn:hover {
+            background-color: #1e7e34;
         }
     </style>
 </head>
@@ -96,8 +111,8 @@
         <h2 class="projects-title">🚀 My Projects</h2>
         <div class="projects-grid">
             
-            <!-- Exploratory Data Analysis on Used Cars Dataset -->
             <div class="project-card">
+                <i class="fas fa-chart-line fa-2x" style="color:#007bff;"></i>
                 <div class="project-title">EDA on Used Cars Dataset</div>
                 <p class="project-description">Performed extensive Exploratory Data Analysis on a used cars dataset to uncover insights and trends.</p>
                 <div class="project-links">
@@ -105,8 +120,8 @@
                 </div>
             </div>
 
-            <!-- Walmart Sales Data Analysis using PostgreSQL -->
             <div class="project-card">
+                <i class="fas fa-database fa-2x" style="color:#007bff;"></i>
                 <div class="project-title">Walmart Sales Data Analysis</div>
                 <p class="project-description">Analyzed Walmart sales data using PostgreSQL to generate key insights and trends.</p>
                 <div class="project-links">
@@ -114,17 +129,17 @@
                 </div>
             </div>
             
-           <!-- IPL Dashboard - Power BI Project -->
             <div class="project-card">
-                <div class="project-title">IPL Dashboard - Power BI Project</div>
+                <i class="fas fa-chart-bar fa-2x" style="color:#F2C811;"></i>
+                <div class="project-title">IPL Dashboard - Power BI</div>
                 <p class="project-description">Designed an interactive IPL performance dashboard using Power BI for real-time insights.</p>
                 <div class="project-links">
                     <a href="https://github.com/Mownesh-s/Power_Bi_Dashboard" class="btn repo-btn">Repo</a>
                 </div>
             </div>
             
-            <!-- Multiclass Classification -->
             <div class="project-card">
+                <i class="fas fa-brain fa-2x" style="color:#FF6F00;"></i>
                 <div class="project-title">Multiclass Classification</div>
                 <p class="project-description">Performed classification on diabetes data using Random Forest, LightGBM, and XGBoost.</p>
                 <div class="project-links">
@@ -132,27 +147,29 @@
                 </div>
             </div>
             
-            <!-- Multi-Output Regression Analysis -->
             <div class="project-card">
-                <div class="project-title">Multi-Output Regression Analysis</div>
+                <i class="fas fa-cogs fa-2x" style="color:#007bff;"></i>
+                <div class="project-title">Multi-Output Regression</div>
                 <p class="project-description">Built a Multi-Output Regression model to predict life expectancy and BMI using ensemble learning.</p>
                 <div class="project-links">
                     <a href="https://github.com/Mownesh-s/Multi_output_Regression_Analysis" class="btn repo-btn">Repo</a>
                 </div>
             </div>
             
-            <!-- Sentiment Analysis with Deep Learning -->
             <div class="project-card">
+                <i class="fas fa-comments fa-2x" style="color:#FF6F00;"></i>
                 <div class="project-title">Sentiment Analysis with Deep Learning</div>
                 <p class="project-description">Built an end-to-end deep learning model for sentiment classification on IMDB Reviews dataset.</p>
                 <div class="project-links">
                     <a href="https://github.com/Mownesh-s/Sentiment_Analysis" class="btn repo-btn">Repo</a>
                 </div>
             </div>
+
         </div>
     </div>
 </body>
 </html>
+
 
 ---
 
