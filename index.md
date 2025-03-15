@@ -1,6 +1,7 @@
 <style>
 body {
-    background-image: url('your-image-url');
+    background-image: url('![IMG_6757](https://github.com/user-attachments/assets/d9a415af-0e6d-49a4-a58a-df67a435ce5c)
+');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
