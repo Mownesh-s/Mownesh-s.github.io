@@ -96,33 +96,6 @@
         <h2 class="projects-title">🚀 My Projects</h2>
         <div class="projects-grid">
             
-            <!-- Multiclass Classification -->
-            <div class="project-card">
-                <div class="project-title">Multiclass Classification</div>
-                <p class="project-description">Performed classification on diabetes data using Random Forest, LightGBM, and XGBoost.</p>
-                <div class="project-links">
-                    <a href="#" class="btn repo-btn">Repo</a>
-                </div>
-            </div>
-            
-            <!-- Multi-Output Regression Analysis -->
-            <div class="project-card">
-                <div class="project-title">Multi-Output Regression Analysis</div>
-                <p class="project-description">Built a Multi-Output Regression model to predict life expectancy and BMI using ensemble learning.</p>
-                <div class="project-links">
-                    <a href="#" class="btn repo-btn">Repo</a>
-                </div>
-            </div>
-            
-            <!-- Sentiment Analysis with Deep Learning -->
-            <div class="project-card">
-                <div class="project-title">Sentiment Analysis with Deep Learning</div>
-                <p class="project-description">Built an end-to-end deep learning model for sentiment classification on IMDB Reviews dataset.</p>
-                <div class="project-links">
-                    <a href="#" class="btn repo-btn">Repo</a>
-                </div>
-            </div>
-            
             <!-- Exploratory Data Analysis on Used Cars Dataset -->
             <div class="project-card">
                 <div class="project-title">EDA on Used Cars Dataset</div>
@@ -131,37 +104,55 @@
                     <a href="https://github.com/Mownesh-s/Exploratory_data_analysis" class="btn repo-btn">Repo</a>
                 </div>
             </div>
-            
+
             <!-- Walmart Sales Data Analysis using PostgreSQL -->
             <div class="project-card">
                 <div class="project-title">Walmart Sales Data Analysis</div>
                 <p class="project-description">Analyzed Walmart sales data using PostgreSQL to generate key insights and trends.</p>
                 <div class="project-links">
-                    <a href="#" class="btn repo-btn">Repo</a>
+                    <a href="https://github.com/Mownesh-s/Sales_Data_Analysis_SQL" class="btn repo-btn">Repo</a>
                 </div>
             </div>
             
-            <!-- IPL Dashboard - Power BI Project -->
+           <!-- IPL Dashboard - Power BI Project -->
             <div class="project-card">
                 <div class="project-title">IPL Dashboard - Power BI Project</div>
                 <p class="project-description">Designed an interactive IPL performance dashboard using Power BI for real-time insights.</p>
                 <div class="project-links">
-                    <a href="#" class="btn repo-btn">Repo</a>
+                    <a href="https://github.com/Mownesh-s/Power_Bi_Dashboard" class="btn repo-btn">Repo</a>
+                </div>
+            </div>
+            
+            <!-- Multiclass Classification -->
+            <div class="project-card">
+                <div class="project-title">Multiclass Classification</div>
+                <p class="project-description">Performed classification on diabetes data using Random Forest, LightGBM, and XGBoost.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Mownesh-s/Multi-Class-Classification" class="btn repo-btn">Repo</a>
+                </div>
+            </div>
+            
+            <!-- Multi-Output Regression Analysis -->
+            <div class="project-card">
+                <div class="project-title">Multi-Output Regression Analysis</div>
+                <p class="project-description">Built a Multi-Output Regression model to predict life expectancy and BMI using ensemble learning.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Mownesh-s/Multi_output_Regression_Analysis" class="btn repo-btn">Repo</a>
+                </div>
+            </div>
+            
+            <!-- Sentiment Analysis with Deep Learning -->
+            <div class="project-card">
+                <div class="project-title">Sentiment Analysis with Deep Learning</div>
+                <p class="project-description">Built an end-to-end deep learning model for sentiment classification on IMDB Reviews dataset.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Mownesh-s/Sentiment_Analysis" class="btn repo-btn">Repo</a>
                 </div>
             </div>
         </div>
     </div>
 </body>
 </html>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mownesh-s&show_icons=true&theme=default" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mownesh-s&theme=default" width="45%" />
-</p>
-
 
 ---
 
