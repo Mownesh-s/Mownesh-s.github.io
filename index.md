@@ -13,11 +13,13 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 **Education:** [BCom (Computer Application)] from [Bharathiar University] (Year of Graduation-2024)  
-- 💡 **Skills:** Python, SQL, Excel,Power BI, Machine Learning
-- 📌 **Currently Learning:** Data Science, Deep Learning, NLP,CV  
-- 🔍 **Looking For:** Internship / Entry-Level Opportunities  
-- 🎯 **Goal:** To become a skilled **Data Analyst / Machine Learning Engineer / Data Scientist **  
+
+- 🎓 **Education:** BCom (Computer Applications), Bharathiar University (2024)  
+- 💡 **Skills:** Python 🐍 | SQL 📊 | Power BI 📈 | Excel 📑 | Machine Learning 🤖  
+- 📌 **Currently Learning:** Deep Learning & NLP / CV🔥  
+- 🎯 **Aspiration:** To become a skilled **Data Analyst / Data Scientist**  
+- 🔍 **Looking For:** Entry-Level Roles & Internships 🎯  
+  
 
 ---
 
