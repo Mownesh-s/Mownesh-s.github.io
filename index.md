@@ -1,12 +1,3 @@
-<style>
-body {
-    background-image: url('![IMG_6757](https://github.com/user-attachments/assets/d9a415af-0e6d-49a4-a58a-df67a435ce5c)
-');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-}
-</style>
 
 <h1 align="center">👋 Hi, I'm [Mownesh S]!</h1>
 
