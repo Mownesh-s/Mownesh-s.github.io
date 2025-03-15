@@ -1,3 +1,12 @@
+<style>
+body {
+    background-image: url('your-image-url');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+</style>
+
 <h1 align="center">👋 Hi, I'm [Mownesh S]!</h1>
 
 <p align="center">
