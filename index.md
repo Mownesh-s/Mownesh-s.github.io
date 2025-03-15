@@ -170,7 +170,7 @@
 
 ---
 ## 📄 Resume  
-📌 **[View My Resume](https://github.com/Mownesh-s/Mownesh-s.github.io/blob/main/Mownesh_Resume.pdf)** (Click to View & Download)
+📌 **[View My Resume](https://github.com/Mownesh-s/Mownesh-s.github.io/blob/main/MOWNESH%20resume.pdf)** (Click to View & Download)
 
 🔗 **Live Portfolio:** [Mownesh-s.github.io](https://mownesh-s.github.io/))  
 🎨 Designed by **[Mownesh S]** 🚀  
