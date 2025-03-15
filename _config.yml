@@ -1,6 +1,9 @@
 theme: jekyll-theme-cayman # Or any other theme
-title: "Mownesh S - Data Analyst & Data Science Enthusiast "
+title:  |
+  Mownesh S  
+  Data Analyst & Data Science Enthusiast
 description: ""
 show_downloads: false
 include: ["index.md"]
 
+theme: jekyll-theme-cayman # Or any other theme
