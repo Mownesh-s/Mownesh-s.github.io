@@ -128,7 +128,7 @@
                 <div class="project-title">EDA on Used Cars Dataset</div>
                 <p class="project-description">Performed extensive Exploratory Data Analysis on a used cars dataset to uncover insights and trends.</p>
                 <div class="project-links">
-                    <a href="#" class="btn repo-btn">Repo</a>
+                    <a href="https://github.com/Mownesh-s/Exploratory_data_analysis" class="btn repo-btn">Repo</a>
                 </div>
             </div>
             
