@@ -1,9 +1,14 @@
 
-<h1 align="center">👋 Hi, I'm [Mownesh S]!</h1>
+<h1 align="center">🚀 Hi, I'm Mownesh S!</h1>
 
 <p align="center">
-  <b>Aspiring [Data Analyst / Data scientist] | Passionate Learner | Open to Opportunities</b>
+  <b>Data Analyst & Data Science Enthusiast | Passionate about Data-Driven Insights 📊</b>
 </p>
+
+<p align="center">
+  🎯 Transforming Data into Actionable Insights | Open to New Opportunities!  
+</p>
+
 
 ---
 
